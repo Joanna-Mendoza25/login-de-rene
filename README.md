@@ -6,7 +6,11 @@
 
 Este proyecto usa xampp 8.0.2 en adelante 
 
--crear la carpeta vendor y la siguiente configuracion en base de datos 
+-crear la carpeta vendor 
+
+<h1>composer update</h1>
+
+-la siguiente configuracion en base de datos 
 ![image](https://user-images.githubusercontent.com/78555588/205426830-6facb5ae-db5b-4191-b0a5-e95ac8d18087.png)
 
 importar la base de datos ya integrada 
