@@ -10,6 +10,8 @@ Este proyecto usa xampp 8.0.2 en adelante
 
 <h1>composer update</h1>
 
+- crear el archivo .env dar php artisan serv y le pedira q genere una key la genera y lo mandara ala pagina principal de logueo 
+
 -la siguiente configuracion en base de datos 
 ![image](https://user-images.githubusercontent.com/78555588/205426830-6facb5ae-db5b-4191-b0a5-e95ac8d18087.png)
 
